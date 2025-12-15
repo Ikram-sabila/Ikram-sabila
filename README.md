@@ -4,6 +4,35 @@ Perkenalkan nama saya **Muhammad Ikram Sabila Rasyad**.<br>
 
 Saya seorang **Mahasiswa Teknologi Informasi** di **Fakultas Ilmu Komputer - Universitas Brawijaya** yang memiliki ketertarikan pada Data Science - Machine Learning dan Website Developer.<br>
 
+## 🛠️ Tech Stack & Tools
+
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,php" />
+</p>
+
+### ⚙️ Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,vue,fastapi,pytorch" />
+</p>
+
+### 🗄️ Databases & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+</p>
+
+### 📱 Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,jetpack-compose" />
+</p>
+
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman" />
+</p>
+
+---
+
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ikram-sabila/)ku ya.
 <p align="left">
 <a href="https://github.com/Ikram-sabila">
