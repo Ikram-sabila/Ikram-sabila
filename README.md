@@ -52,13 +52,30 @@ I enjoy building **scalable backend systems**, designing **RESTful APIs**, worki
 
 ---
 
-<h3 align="center">🔗 Let's Connect</h3> 
-<p align="center"> Feel free to connect with me on 
-  <a href="https://www.linkedin.com/in/ikram-sabila/">LinkedIn</a> 
-</p> 
-<p align="center"> 
-  <a href="https://github.com/Ikram-sabila"> 
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ikram-sabila&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ikram-sabila&layout=compact&theme=algolia"/> 
-  </a> 
+<h3 align="center">🔗 Let's Connect</h3>
+
+<p align="center">
+  Feel free to connect with me on 
+  <a href="https://www.linkedin.com/in/ikram-sabila/">LinkedIn</a>
 </p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Ikram-sabila">
+        <img
+          height="180em"
+          src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ikram-sabila&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
+        />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Ikram-sabila">
+        <img
+          height="180em"
+          src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ikram-sabila&layout=compact&theme=algolia"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
